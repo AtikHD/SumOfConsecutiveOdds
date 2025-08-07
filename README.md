@@ -30,22 +30,4 @@ This Java console application calculates the sum of the first Y consecutive odd 
    ```bash
    javac SumOfConsecutiveOdds.java
 
----
-
-### Extended Description (for adding more context)
-
-This program serves as a practice exercise for fundamental programming concepts such as input handling, loops, and conditional logic in Java. It accepts multiple test cases and, for each, calculates the sum of a specified number of consecutive odd integers starting from a given number.
-
-The solution demonstrates how to:
-
-- Use nested loops and counters effectively
-- Implement conditional logic to adjust starting points based on parity (odd/even)
-- Perform iterative arithmetic computations
-- Read and process multiple inputs dynamically
-
-This foundational program can be further improved with mathematical formula optimizations and more robust input validation, forming a good base for learning Java programming.
-
----
-
-If you want, I can also help generate a clean, professional `README.md` file with this content ready to paste. Just ask!
 
